@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="/">
+	<title>Short Life</title>
+	<link>/</link>
+	<description></description>
+	<dc:date>2024-12-16T12:57:50Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.2" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="/play/minecraft-builder"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="/play/minecraft-builder">
+	<title>Minecraft Builder</title>
+	<link>/play/minecraft-builder</link>
+
+	<dc:creator><![CDATA[admin]]></dc:creator>
+	<dc:date>2023-12-31T16:55:35Z</dc:date>
+			<dc:subject><![CDATA[Animal Games]]></dc:subject>
+		<dc:subject><![CDATA[Arcade Games]]></dc:subject>
+		<dc:subject><![CDATA[Boys Games]]></dc:subject>
+		<dc:subject><![CDATA[Fan-Favorite Games]]></dc:subject>
+		<dc:subject><![CDATA[Funny Games]]></dc:subject>
+		<dc:subject><![CDATA[Girls Games]]></dc:subject>
+		<dc:subject><![CDATA[Hot Games]]></dc:subject>
+		<dc:subject><![CDATA[Incredibox Games]]></dc:subject>
+		<dc:subject><![CDATA[Indie Game]]></dc:subject>
+		<dc:subject><![CDATA[Music Games]]></dc:subject>
+		<dc:subject><![CDATA[Physics Games]]></dc:subject>
+		<dc:subject><![CDATA[Popular Games]]></dc:subject>
+		<dc:subject><![CDATA[Puzzle Solvers]]></dc:subject>
+		<dc:subject><![CDATA[Sandbox Games]]></dc:subject>
+		<dc:subject><![CDATA[School Games]]></dc:subject>
+		<dc:subject><![CDATA[Simulation Games]]></dc:subject>
+
+			<description><![CDATA[]]></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+	
+	</item>
+</rdf:RDF>
